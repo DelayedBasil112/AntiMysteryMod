@@ -1,0 +1,9 @@
+{
+  "uuid": "%uuid%",
+  "name": "&0&l#&4&lAnti&2&lMystery&f&lMod&8&l Addon for epic1337",
+  "icon":"https://cdn.discordapp.com/attachments/907636424071847968/983088588621217822/texture_4f6bffafa52955f7f3600010f9f22322.png",
+  "author": "DelayedBasil112#1827",
+  "mainClass": "de.basil.Main",
+  "description": "&0&l#&4&lAnti&2&lMystery&f&lMod",
+  "version": 1.2
+}
